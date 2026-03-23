@@ -178,9 +178,7 @@ POST `/api/interview`
 
 ## 🎥 Demo
 
-(Add demo video or GIF here)
-
----
+[Watch Demo Video](./demo.mp4)
 
 ## 🧠 Learnings
 
